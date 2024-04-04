@@ -17,8 +17,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “GalleryControl”.
-Developed by:Kayyuru Tharani
-Registeration Number : 212221040080
+Developed by:Ajay Surya S
+Registeration Number : 212221040009
 */
 ```
 # Activity_main.xml
